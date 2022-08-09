@@ -1,0 +1,4 @@
+# CucumberProject
+This is a cucumber selenium project
+If you are importing this to any IDE please import as a Maven project
+Use command mvn clean test to run the the project via maven
